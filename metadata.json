@@ -1,0 +1,5 @@
+{
+  "name": "Causal DAG AI Editor",
+  "description": "An AI-powered chat interface to edit Causal Directed Acyclic Graphs (DAGs) for Marketing Mix Modeling. Users can add or remove edges between nodes using natural language commands, which are then translated into JSON modifications by an LLM.",
+  "requestFramePermissions": []
+}
